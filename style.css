@@ -232,3 +232,21 @@ nav li:hover {
 		height: 1300px;
 	}
 }
+@media(min-height: 347px) and (max-width: 411px){
+	.ourservices{
+		height: 1450px;
+	}
+	.portfolio{
+		height: 2500px;
+	}
+	.ourteam{
+		height: 1350px;
+	}
+	.footer{
+		height: 100px;
+		background-color: black;
+	}
+	.footer h6{
+		padding-top: 10px;
+	}
+}
